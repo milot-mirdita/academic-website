@@ -8,8 +8,8 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: minimal
-  font_size: L
+  font: native
+  font_size: M
 
 # SEO
 
@@ -19,7 +19,7 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    twitter: 'milot-mirdita'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -35,15 +35,15 @@ header:
     align: l
     show_logo: true
     show_language: false
-    show_day_night: true
-    show_search: true
+    show_day_night: false
+    show_search: false
     highlight_active_link: true
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: 'This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -53,8 +53,8 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: '2006, Jan 2'
+  time_format: '15:04'
   address_format: en-us
 
 # Site features
@@ -87,7 +87,7 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: wowchemy
+    provider: ''
     algolia:
       app_id: ''
       api_key: ''
@@ -102,6 +102,7 @@ features:
 
 extensions:
   cms:
+    enable: false
     branch: main
     local_backend: false
   academicons:

@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseURL: 'https://example.com/' # Website URL
+title: Dr. Milot Mirdita # Website name
+baseURL: 'https://mirdita.de/' # Website URL
 
 ############################
 ## LANGUAGE
@@ -21,8 +21,8 @@ removePathAccents: true
 
 module:
   imports:
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
+    # - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
+    # - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
 
@@ -38,23 +38,23 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  event: '/talk/:slug/'
-  tags: '/tag/:slug/'
-  categories: '/category/:slug/'
+  # event: '/talk/:slug/'
+  # tags: '/tag/:slug/'
+  # categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  home: [HTML, RSS, JSON, WebAppManifest]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 75
+  quality: 95
   anchor: smart
 timeout: 600000
 taxonomies:
-  tag: tags
-  category: categories
-  publication_type: publication_types
+  # tag: tags
+  # category: categories
+  # publication_type: publication_types
   author: authors
 markup:
   _merge: deep
