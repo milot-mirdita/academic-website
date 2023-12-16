@@ -40,4 +40,7 @@ publication_types:
 abstract: ''
 publication: '*Protocol Exchange*'
 doi: 10.21203/rs.3.pex-2490
+links:
+- name: URL
+  url: https://protocolexchange.researchsquare.com/article/pex-2490/v1
 ---

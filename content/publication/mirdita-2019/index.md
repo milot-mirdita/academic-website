@@ -44,6 +44,5 @@ publication: '*Bioinformatics*'
 doi: 10.1093/bioinformatics/bty1057
 links:
 - name: URL
-  url: https://academic.oup.com/bioinformatics/article/35/16/2856/5280135 http://www.ncbi.nlm.nih.gov/pubmed/30615063
-    http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC6691333
+  url: https://academic.oup.com/bioinformatics/article/35/16/2856/5280135
 ---

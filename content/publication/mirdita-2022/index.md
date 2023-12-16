@@ -44,4 +44,7 @@ abstract: ColabFold offers accelerated prediction of protein structures and comp
   and its novel environmental databases are available at https://colabfold.mmseqs.com.
 publication: '*Nature Methods*'
 doi: 10.1038/s41592-022-01488-1
+links:
+- name: URL
+  url: https://www.nature.com/articles/s41592-022-01488-1
 ---

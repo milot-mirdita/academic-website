@@ -67,5 +67,5 @@ publication: '*Microbiome*'
 doi: 10.1186/s40168-020-00808-x
 links:
 - name: URL
-  url: http://www.ncbi.nlm.nih.gov/pubmed/32245390 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC7126354
+  url: https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00808-x
 ---

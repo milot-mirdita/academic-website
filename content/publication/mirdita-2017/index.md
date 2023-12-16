@@ -56,5 +56,5 @@ publication: '*Nucleic Acids Research*'
 doi: 10.1093/nar/gkw1081
 links:
 - name: URL
-  url: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1081
+  url: https://academic.oup.com/nar/article/45/D1/D170/2605730
 ---

@@ -56,5 +56,5 @@ publication: '*bioRxiv*'
 doi: 10.1101/2023.07.10.548308
 links:
 - name: URL
-  url: http://biorxiv.org/content/early/2023/07/11/2023.07.10.548308.abstract
+  url: https://www.biorxiv.org/content/10.1101/2023.07.10.548308v1
 ---

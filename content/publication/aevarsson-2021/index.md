@@ -151,5 +151,4 @@ doi: 10.1093/femsle/fnab067
 links:
 - name: URL
   url: https://academic.oup.com/femsle/article/doi/10.1093/femsle/fnab067/6296640
-    http://www.ncbi.nlm.nih.gov/pubmed/34114607
 ---

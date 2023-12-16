@@ -67,5 +67,5 @@ publication: '*Current Protocols in Bioinformatics*'
 doi: 10.1002/cpbi.108
 links:
 - name: URL
-  url: https://onlinelibrary.wiley.com/doi/10.1002/cpbi.108 http://www.ncbi.nlm.nih.gov/pubmed/33315308
+  url: https://onlinelibrary.wiley.com/doi/10.1002/cpbi.108
 ---

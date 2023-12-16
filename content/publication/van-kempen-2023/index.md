@@ -47,5 +47,5 @@ publication: '*Nature Biotechnology*'
 doi: 10.1038/s41587-023-01773-0
 links:
 - name: URL
-  url: https://doi.org/10.1038/s41587-023-01773-0 https://www.nature.com/articles/s41587-023-01773-0
+  url: https://www.nature.com/articles/s41587-023-01773-0
 ---

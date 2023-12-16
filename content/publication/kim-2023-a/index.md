@@ -54,5 +54,4 @@ links:
 - name: URL
   url: 
     https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btad153/7085592
-    http://www.ncbi.nlm.nih.gov/pubmed/36961332 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC10085514
 ---

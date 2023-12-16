@@ -73,5 +73,5 @@ publication: '*Protein Science*'
 doi: 10.1002/pro.4524
 links:
 - name: URL
-  url: https://doi.org/10.1002/pro.4524 https://onlinelibrary.wiley.com/doi/10.1002/pro.4524
+  url: https://onlinelibrary.wiley.com/doi/10.1002/pro.4524
 ---

@@ -61,5 +61,4 @@ doi: 10.1186/s12859-019-3019-7
 links:
 - name: URL
   url: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3019-7
-    http://www.ncbi.nlm.nih.gov/pubmed/31521110 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC6744700
 ---
