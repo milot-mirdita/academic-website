@@ -1,20 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Beyond sequence similarity: cross-phyla protein annotation by structural prediction
-  and alignment'
+title: Cross-phyla protein annotation by structural prediction and alignment
 subtitle: ''
 summary: ''
 authors:
 - Fabian Ruperti
 - Nikolaos Papadopoulos
-- Jacob Musser
+- Jacob M. Musser
 - Milot Mirdita
 - Martin Steinegger
 - Detlev Arendt
 tags: []
 categories: []
-date: '2023-01-01'
+date: '2023-05-01'
 lastmod: 2023-03-07T22:49:54+09:00
 featured: false
 draft: false
@@ -58,9 +57,9 @@ abstract: 'Background Annotating protein function is a major goal in molecular b
   this to be a powerful approach that boosts discovery in numerous -omics datasets,
   especially for non-model organisms.Competing Interest StatementThe authors have
   declared no competing interest.'
-publication: '*bioRxiv*'
-doi: 10.1101/2022.07.05.498892
+publication: '*Genome Biology*'
+doi: 10.1186/s13059-023-02942-9
 links:
 - name: URL
-  url: http://biorxiv.org/content/early/2023/01/30/2022.07.05.498892.abstract
+  url: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02942-9
 ---

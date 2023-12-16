@@ -9,17 +9,10 @@ authors:
 - Martin Steinegger
 - Milot Mirdita
 - Johannes Söding
-tags:
-- Algorithm
-- Functional annotation
-- Homology detection
-- Profile HMM
-- Protein alignment
-- SIMD
-- Sequence search
+tags: []
 categories: []
 date: '2019-07-01'
-lastmod: 2023-03-07T22:49:54+09:00
+lastmod: 2023-12-16T19:48:03+09:00
 featured: false
 draft: false
 
@@ -37,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-03-07T13:49:55.351168Z'
+publishDate: '2023-12-16T10:48:03.164903Z'
 publication_types:
 - '2'
 abstract: The open-source de novo protein-level assembler, Plass (https://plass.mmseqs.com),

@@ -34,14 +34,14 @@ projects: []
 publishDate: '2023-03-07T13:49:54.557146Z'
 publication_types:
 - '2'
-abstract: "Summary: MMseqs2 taxonomy is a new tool to assign taxonomic labels to metagenomic\
-  \ contigs. It extracts all possible protein fragments from each contig, quickly\
-  \ retains those that can contribute to taxonomic annotation, assigns them with robust\
-  \ labels and determines the contig's taxonomic identity by weighted voting. Its\
-  \ fragment extraction step is suitable for the analysis of all domains of life.\
-  \ MMseqs2 taxonomy is 2-18x faster than state-of-the-art tools and also contains\
-  \ new modules for creating and manipulating taxonomic reference databases as well\
-  \ as reporting and visualizing taxonomic assignments."
+abstract: "Summary: MMseqs2 taxonomy is a new tool to assign taxonomic labels to metagenomic
+  contigs. It extracts all possible protein fragments from each contig, quickly retains
+  those that can contribute to taxonomic annotation, assigns them with robust labels
+  and determines the contig's taxonomic identity by weighted voting. Its fragment
+  extraction step is suitable for the analysis of all domains of life. MMseqs2 taxonomy
+  is 2-18x faster than state-of-the-art tools and also contains new modules for creating
+  and manipulating taxonomic reference databases as well as reporting and visualizing
+  taxonomic assignments."
 publication: '*Bioinformatics*'
 doi: 10.1093/bioinformatics/btab184
 links:
