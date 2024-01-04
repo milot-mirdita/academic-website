@@ -60,8 +60,8 @@ social:
     icon_pack: fab
     link: https://twitter.com/milot_mirdita
     label: Follow me on Twitter
-    display:
-      header: true
+    # display:
+      # header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=jaTEO_QAAAAJ
@@ -86,5 +86,5 @@ email: ''
 
 ---
 
-I'm a postdoctoral researcher at <a href="https://biosci.snu.ac.kr/en" rel="noopener">Seoul National University</a>, where I work with <a href="https://steineggerlab.com">Martin Steinegger</a>. My expertise includes bioinformatics, metagenomics, protein structure prediction and machine learning. I'm a developer and maintainer of many open-source tools like <a href="https://colabfold.com">ColabFold</a>, <a href="https://mmseqs.com">MMseqs2</a> and <a href="https://foldseek.com">Foldseek</a>. I hold a PhD from the <a href="https://www.uni-goettingen.de/">University of Göttingen</a> and the <a href="https://www.mpinat.mpg.de">MPI-NAT</a>, where I worked with <a href="https://www.mpinat.mpg.de/soeding">Johannes Söding</a>.
+I am a postdoctoral researcher at <a href="https://biosci.snu.ac.kr/en" rel="noopener">Seoul National University</a>, where I work with <a href="https://steineggerlab.com">Martin Steinegger</a>. My expertise includes bioinformatics, metagenomics, protein structure prediction and machine learning. I'm a developer and maintainer of many open-source tools like <a href="https://colabfold.com">ColabFold</a>, <a href="https://mmseqs.com">MMseqs2</a> and <a href="https://foldseek.com">Foldseek</a>. I hold a PhD from the <a href="https://www.uni-goettingen.de/">University of Göttingen</a> and the <a href="https://www.mpinat.mpg.de">MPI-NAT</a>, where I worked with <a href="https://www.mpinat.mpg.de/soeding">Johannes Söding</a>.
 {style="text-align: justify;"}
