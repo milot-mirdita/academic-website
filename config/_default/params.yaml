@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    description: 'Milot Mirdita is a bioinformatics researcher building methods for metagenomics and protein structure prediction, such as ColabFold, MMseqs2 and Foldseek.'
     twitter: 'milot-mirdita'
   analytics:
     google_analytics: ''
