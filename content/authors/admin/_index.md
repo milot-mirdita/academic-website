@@ -56,10 +56,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+  - icon: bluesky
     icon_pack: fab
-    link: https://twitter.com/milot_mirdita
-    label: Follow me on Twitter
+    link: https://bsky.app/profile/milot.bsky.social
+    label: Follow me on BlueSky
     # display:
       # header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
