@@ -19,7 +19,7 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'Milot Mirdita is a bioinformatics researcher building methods for metagenomics and protein structure prediction, such as ColabFold, MMseqs2 and Foldseek.'
-    twitter: 'milot-mirdita'
+    # twitter: 'milot-mirdita'
   analytics:
     google_analytics: ''
     baidu_tongji: ''

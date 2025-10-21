@@ -261,10 +261,10 @@ sections:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
       contact_links:
-        - icon: twitter
+        - icon: bluesky
           icon_pack: fab
-          name: Twitter
-          link: 'https://twitter.com/milot_mirdita'
+          name: BlueSky
+          link: https://bsky.app/profile/milot.bsky.social
         - icon: mastodon
           icon_pack: fab
           name: Mastodon
