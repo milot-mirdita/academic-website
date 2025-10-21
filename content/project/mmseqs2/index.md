@@ -28,6 +28,10 @@ links:
     icon_pack: fas
     name: Taxonomy paper
     url: https://academic.oup.com/bioinformatics/article/37/18/3029/6178277?
+  - icon: scroll
+    icon_pack: fas
+    name: GPU paper
+    url: https://www.nature.com/articles/s41592-025-02819-8
 url_code: ''
 url_pdf: ''
 url_slides: ''

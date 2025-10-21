@@ -15,10 +15,15 @@ links:
     icon_pack: fab
     name: GitHub
     url: https://github.com/steineggerlab/foldseek
-  - icon: biorxiv
-    icon_pack: ai
-    name: Preprint
-    url: https://www.biorxiv.org/content/10.1101/2022.02.07.479398v4
+  - icon: scroll
+    name: Paper
+    url: https://www.nature.com/articles/s41587-023-01773-0
+  - icon: scroll
+    name: Clustering paper
+    url: https://www.nature.com/articles/s41586-023-06510-w
+  - icon: scroll
+    name: Multimer paper
+    url: https://www.nature.com/articles/s41592-025-02593-7
   - icon: search
     icon_pack: fas
     name: Search server

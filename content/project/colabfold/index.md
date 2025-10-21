@@ -19,6 +19,9 @@ links:
     icon_pack: ai
     name: Paper
     url: https://www.nature.com/articles/s41592-022-01488-1
+  - icon: scroll
+    name: Protocol
+    url: https://www.nature.com/articles/s41596-024-01060-5
   - icon: infinity
     icon_pack: fas
     name: Google Colab
